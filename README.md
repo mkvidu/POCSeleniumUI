@@ -1,2 +1,0 @@
-# POCSeleniumUI
-Selenium UI POC 
