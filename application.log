@@ -1,0 +1,61 @@
+2023-01-27 16:06:35  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 16:06:35  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 16:06:35  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 16:08:32  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 16:09:05  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 16:09:05  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 16:09:05  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 16:11:07  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 17:38:36  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 17:38:36  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 17:38:36  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 17:38:53  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 17:56:50  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 17:56:50  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 17:56:50  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 17:58:13  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 17:59:00  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 17:59:00  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 17:59:00  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 18:00:22  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 18:00:59  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 18:00:59  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 18:00:59  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 18:02:48  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 18:03:31  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 18:03:31  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 18:03:32  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 18:05:13  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 18:08:10  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 18:08:10  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 18:08:10  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 18:09:42  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 18:14:45  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 18:14:45  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 18:14:45  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 18:16:20  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 18:17:50  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 18:17:50  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 18:17:50  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 18:19:09  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 18:22:04  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 18:22:04  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 18:22:04  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 18:23:40  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 18:27:01  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 18:27:01  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 18:27:01  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 18:32:26  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 18:32:26  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 18:32:26  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 18:34:12  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 19:04:43  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 19:04:43  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 19:04:43  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 19:07:16  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 19:07:52  [com.stepdef.Loggers] (main:) browser logout
+2023-01-27 19:09:17  [com.stepdef.Loggers] (main:) chromedriver will get started
+2023-01-27 19:09:17  [com.stepdef.Loggers] (main:) waited for chromedriver started
+2023-01-27 19:09:17  [com.stepdef.Loggers] (main:) browser window maximized
+2023-01-27 19:11:51  [com.stepdef.Loggers] (main:) browser url navigation
+2023-01-27 19:12:46  [com.stepdef.Loggers] (main:) browser logout
